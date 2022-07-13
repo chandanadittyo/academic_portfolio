@@ -1,0 +1,66 @@
+.navbar{
+    justify-content:space-evenly ;
+    background-color: #F8F9FA;
+    font-size: 20px;
+    margin-bottom: 20px;
+   
+}
+
+
+.basic-info{
+    display: flex;
+
+}
+.home img{
+    height: 200px;
+    width:200px;
+    border-radius: 95px;
+}
+.half-width{
+
+    text-align: justify;
+    padding-left: 10%;
+    margin-bottom: 50px;
+    margin-top: 45px;
+}
+
+.half-width p{
+   padding-right: 25%;
+}
+.half-width  a{
+    font-weight: bold;
+    color: blue;
+    text-decoration: none;
+ }
+.contact{
+    display: flex;
+    padding-left: 10%;
+}
+
+.icon{
+    margin: 2px 4px;
+    
+}
+
+.icon :hover{
+    background: cyan
+}
+
+.show{
+    padding-left: 10%;
+}
+.show p{
+    margin-left: 4px;
+}
+.show b{
+    margin-left: 5px;
+}
+hr{ 
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.publication ul{
+    width: 90%;
+    text-align: justify;
+}
